@@ -4,7 +4,7 @@
 
 This take on a classic game loads lots of Pac-Men images onto the screen by pressing the 'add PacMan button'. Next by pressing the 'Start Game' button the PacMen will move around the screen bouncing back and forth at the edges of the browser window. Subsequent presses of the buttons will add more PacMen or make the PacMen move faster respectively. 
 
-## Useage
+## Usage
 
 Clone the repository (or download the zip pack of files) to your local machine then load the index.html file into the browser. Press the buttons as explained in the description.
 
